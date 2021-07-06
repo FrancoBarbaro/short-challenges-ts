@@ -1,0 +1,14 @@
+node_modules/
+out/
+
+# super simple exercises 
+can_two_movies_fill_flight/
+capital_indexes/
+double_letters/
+middle_letter/
+online_status/
+percentage_of_a_number/
+random_int_generator/
+remove_all_from_string/
+reverse_number/
+tests/
